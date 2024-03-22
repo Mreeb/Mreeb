@@ -1,4 +1,6 @@
-
+<div style="text-align: center">
+  ![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
+</div>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <h1 align="center">Hi 👋, I'm Muhammad Areeb Khan</h1>
@@ -10,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/areeb22534" target="blank"><img src="https://img.shields.io/twitter/follow/areeb22534?logo=twitter&style=for-the-badge" alt="areeb22534" /></a> </p>
 
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
+
 
 - 🌱 I’m currently learning **LLMs, MLOps, Model Pipelines, Deploy Pipelines.**
 
