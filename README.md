@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **iamareebkhan2002@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1JbhcSdTcaG4ds00n-9ZJI1oJlrK8m6J3/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/19dxJfGCLAxfOpHIkbcacMBDsAAXqkxhW/view?usp=drive_link)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
