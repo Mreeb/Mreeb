@@ -11,7 +11,7 @@
 
 
 
-- 🌱 I’m currently learning **LLMs, MLOps, Model Pipelines, Deploy Pipelines.**
+- 🌱 I’m currently learning **LLMs, MLOps, Model Pipelines, Deploy Pipelines, Mlflow.**
 
 - 👯 I’m looking to collaborate on **AI Projects**
 
