@@ -11,11 +11,11 @@
 
 
 
-- 🌱 I’m currently learning **LLMs, MLOps, Model Pipelines, Deploy Pipelines, Mlflow.**
+- 🌱 I’m currently learning **LLMs, MLOps, Model Pipelines, Deploy Pipelines, Mlflow., RAG, Flutter and Mobile App Development**
 
 - 👯 I’m looking to collaborate on **AI Projects**
 
-- 💬 Ask me about **Python | Machine Learning | Deep Learning | Computer Vision|Large Language Models**
+- 💬 Ask me about **Python | Machine Learning | Deep Learning | Computer Vision|Large Language Models | Flutter**
 
 - 📫 How to reach me **iamareebkhan2002@gmail.com**
 
