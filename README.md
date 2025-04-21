@@ -53,7 +53,6 @@
 ![Ultralytics](https://img.shields.io/badge/Ultralytics-FF1493?style=for-the-badge&logo=ultralytics&logoColor=white)
 ![Roboflow](https://img.shields.io/badge/Roboflow-00BFFF?style=for-the-badge&logo=roboflow&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-2E8B57?style=for-the-badge&logo=langchain&logoColor=white)
-![VS Code Live Share](https://img.shields.io/badge/VS%20Code%20Live%20Share-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Chroma DB](https://img.shields.io/badge/Chroma%20DB-8A2BE2?style=for-the-badge&logo=chroma&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 ![Eleven Labs](https://img.shields.io/badge/Eleven%20Labs-FF69B4?style=for-the-badge&logo=elevenlabs&logoColor=white)
