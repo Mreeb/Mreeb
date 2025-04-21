@@ -58,6 +58,12 @@
 ![Eleven Labs](https://img.shields.io/badge/Eleven%20Labs-FF69B4?style=for-the-badge&logo=elevenlabs&logoColor=white)
 ![OpenAI Grok](https://img.shields.io/badge/OpenAI%20Grok-6A5ACD?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-FF7F50?style=for-the-badge&logo=gemini&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-orange?style=for-the-badge&logo=pytorch&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-FF6F61?style=for-the-badge&logo=spacy&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-FF1493?style=for-the-badge&logo=opencv&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-40AEF0?style=for-the-badge&logo=fastapi&logoColor=white)
+![Replit](https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AhmadMujtaba200210&theme=gruvbox&hide_border=false)<br/>
 
