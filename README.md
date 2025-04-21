@@ -16,9 +16,7 @@
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 ## 🌐 Socials:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/areeb22534)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mreeb/)
-[![Stack Overflow](https://img.shields.io/badge/StackOverflow-%23FE7A16.svg?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/muhammad-areeb-khan)
 [![Kaggle](https://img.shields.io/badge/Kaggle-%2312100E.svg?logo=kaggle&logoColor=white)](https://kaggle.com/muhammadareebkhan)
 [![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?logo=medium&logoColor=white)](https://medium.com/@iamareebkhan2002)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23007ACC.svg?logo=leetcode&logoColor=white)](https://www.leetcode.com/iamareebkhan2002/)
@@ -49,8 +47,14 @@
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=mreeb&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=mreeb&show_icons=true&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top
-::contentReference[oaicite:0]{index=0}
- 
+![](https://github-readme-streak-stats.herokuapp.com/?user=AhmadMujtaba200210&theme=gruvbox&hide_border=false)<br/>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AhmadMujtaba200210&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=AhmadMujtaba200210&icon=0&color=0)](https://visitcount.itsvg.in)
