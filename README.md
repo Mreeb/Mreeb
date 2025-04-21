@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **AI Projects**
 
-- 💬 Ask me about **Python | Machine Learning | Deep Learning | Computer Vision|Large Language Models | Flutter**
+- 💬 Ask me about **Python | Machine Learning | Deep Learning | Computer Vision|Large Language Models | AI Agents | Automation | Flutter**
 
 - 📫 How to reach me **iamareebkhan2002@gmail.com**
 
