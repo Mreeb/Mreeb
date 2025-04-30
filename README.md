@@ -1,11 +1,6 @@
-## Codewars:
-<img src="https://www.codewars.com/users/iamareebkhan2002/badges/small"/>
-
 # 💫 About Me:
-🔭 I’m currently working on <b>LLMs, MLOps, Model Pipelines, Deploy Pipelines, Mlflow, RAG, Flutter, and Mobile App Development</b><br>
+🔭 I’m currently working on <b>LLMs,AI Automation, MLOps, Model Pipelines, Deploy Pipelines, Mlflow, RAG, Flutter, and Mobile App Development</b><br>
 👯 I’m looking to collaborate on <b>AI Projects</b><br>
-🤝 I’m looking for help with <b>Advanced Machine Learning Concepts</b><br>
-🌱 I’m currently learning <b>Software Development and Machine Learning</b><br>
 💬 Ask me about <b>Python, Machine Learning, Deep Learning, Computer Vision, Large Language Models, AI Agents, Automation, Flutter</b><br>
 📫 How to reach me: <b>iamareebkhan2002@gmail.com</b><br>
 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/19dxJfGCLAxfOpHIkbcacMBDsAAXqkxhW/view?usp=drive_link)<br>
